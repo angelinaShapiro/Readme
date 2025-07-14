@@ -1,7 +1,5 @@
 # Readme
 # Descripción 
-
-
 test 2.1.2
 
 hometasks for my studying for QA engineering 
