@@ -4,4 +4,4 @@
 test 2.1.2
 hometasks for my studying for QA engineering 
 
-start 01/25
+start studying course 01/25
