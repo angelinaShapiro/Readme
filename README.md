@@ -1,5 +1,5 @@
 # Readme
-# D escripción 
+# D e scripción 
 
 test 2.1.2
 hometasks for my studying for QA engineering 
