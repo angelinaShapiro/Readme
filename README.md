@@ -13,4 +13,4 @@ collection of dairy review:
 23.07.2025 tasks
 24.07.2025 starting working on parcer of data
 25.07.2024
-26.07.2024 
+26.07.2024 testing
