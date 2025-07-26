@@ -10,7 +10,7 @@ collection of dairy review:
 19.07.2025
 20.07.2025 practice
 22.07.2025 unit new
-23.07.2025 tasks
+23.07.2025 tasks studding 
 24.07.2025 starting working on parcer of data
 25.07.2024 coding
 26.07.2024 testing #1/2/3 parcer
