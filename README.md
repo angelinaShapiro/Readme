@@ -15,6 +15,6 @@ collection of dairy review:
 25.07.2024 coding
 26.07.2024 testing #1/2/3 parcer
 27.07.2025 API
-28.07.2025
+28.07.2025 new module
 29.07.2025
 30.07.2025
