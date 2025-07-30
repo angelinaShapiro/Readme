@@ -14,7 +14,7 @@ collection of dairy review:
 24.07.2025 starting working on parcer of data
 25.07.2024 coding
 26.07.2024 testing #1/2/3 parcer
-27.07.2025
+27.07.2025 API
 28.07.2025
 29.07.2025
 30.07.2025
