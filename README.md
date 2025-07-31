@@ -18,4 +18,4 @@ collection of dairy review:
 28.07.2025 new module
 29.07.2025 starting HT
 30.07.2025 studding 
-31.07.2025 lil day off 
+31.07.2025 lil day off funeral
