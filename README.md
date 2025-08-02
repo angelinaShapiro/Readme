@@ -19,5 +19,5 @@ collection of dairy review:
 29.07.2025 starting HT
 30.07.2025 studding 
 31.07.2025 lil day off funeral
-01.08.2025 meh
+01.08.2025 meh not anything 
 02.08.2025 read write
