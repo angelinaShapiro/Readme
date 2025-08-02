@@ -20,4 +20,4 @@ collection of dairy review:
 30.07.2025 studding 
 31.07.2025 lil day off funeral
 01.08.2025 meh
-02.08.2025 read
+02.08.2025 read write
