@@ -6,7 +6,7 @@ start studying course 01/25
 collection of dairy review:
 16.07.2025 styding 
 17.07.2025 python
-18.07.2025
+18.07.2025 python
 19.07.2025 pics
 20.07.2025 practice
 22.07.2025 unit new
