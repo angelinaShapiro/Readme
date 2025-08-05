@@ -8,7 +8,7 @@ collection of dairy review:
 17.07.2025 python
 18.07.2025 python
 19.07.2025 pics
-20.07.2025 practice
+20.07.2025 practice hard
 22.07.2025 unit new
 23.07.2025 tasks studding 
 24.07.2025 starting working on parcer of data
