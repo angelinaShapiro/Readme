@@ -28,4 +28,4 @@ collection of dairy review:
 05.08.2025 read
 06.08.2025 write well
 07.08.2025 reading tz
-08.08.2025
+08.08.2025 reading
