@@ -32,5 +32,5 @@ collection of dairy review:
 09.08.2025 tests
 10.08.2025 reading
 11.08.2025 script
-12.08.2025 read tz
+12.08.2025 read
 13.08.2025 write
