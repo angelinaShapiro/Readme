@@ -33,4 +33,4 @@ collection of dairy review:
 10.08.2025 reading
 11.08.2025 script
 12.08.2025 read tz
-13.08.2025
+13.08.2025 write
