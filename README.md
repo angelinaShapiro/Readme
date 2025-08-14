@@ -32,6 +32,6 @@ collection of dairy review:
 09.08.2025 tests
 10.08.2025 reading
 11.08.2025 script
-12.08.2025 read
+12.08.2025 read books
 13.08.2025 write docs
 14.08.2025 fullstuck 
