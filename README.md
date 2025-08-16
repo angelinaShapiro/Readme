@@ -36,4 +36,4 @@ collection of dairy review:
 13.08.2025 write docs
 14.08.2025 fullstuck 
 15.08.2025 hehe
-16.08.
+16.08.2025
