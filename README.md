@@ -39,5 +39,5 @@ collection of dairy review:
 16.08.2025 eeeee
 17.08.2025 test
 18.08.2025 read
-19.08.2025
+19.08.2025 draw
 20.08.2025
