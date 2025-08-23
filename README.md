@@ -43,4 +43,4 @@ collection of dairy review:
 20.08.2025 write
 21.08.2025 weekends
 22.08.2025 weekends
-23.08.2025
+23.08.2025 weekends
