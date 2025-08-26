@@ -46,4 +46,4 @@ collection of dairy review:
 23.08.2025 weekends
 24.08.2025 reading
 25.08.2025 debuging
-26.
+26.08.
