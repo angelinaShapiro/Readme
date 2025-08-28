@@ -48,4 +48,4 @@ collection of dairy review:
 25.08.2025 debuging
 26.08.2025 reading
 27.08.2025 meh
-28.08
+28.08.2025
