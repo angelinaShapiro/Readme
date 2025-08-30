@@ -50,4 +50,4 @@ collection of dairy review:
 27.08.2025 meh
 28.08.2025 design 
 29.08.2025 test
-30.
+30.08.
