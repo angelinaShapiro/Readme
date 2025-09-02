@@ -53,4 +53,4 @@ collection of dairy review:
 30.08.2025 joke
 31.08.2025 test
 01.09.2025 write
-02.09.
+02.09.2025
