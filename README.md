@@ -57,7 +57,7 @@ collection of dairy review:
 03.09.2025 testing
 04.09.2025 dev
 05.09.2025 draw
-06.09.
+06.09.2025
 07.09.2025 tessssssstsssssss
 08.09.2025 stress
 09.09.2025
