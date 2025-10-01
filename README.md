@@ -82,4 +82,4 @@ collection of dairy review:
 28.
 29.09.2025
 30.
-01.
+01.10
